@@ -1,0 +1,5 @@
+Installation:
+	git clone git://github.com/cdeterman/vimfiles.git ~/.vim
+
+Create Symbolic link
+	ln -s ~/.vim/vimrc ~/.vimrc
